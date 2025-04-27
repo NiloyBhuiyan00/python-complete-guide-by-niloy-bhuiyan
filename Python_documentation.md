@@ -1,4 +1,3 @@
-```markdown
 # 📚 Python Mastery: Beginner to Advanced by Niloy Bhuiyan
 
 ---
@@ -54,7 +53,6 @@ myenv\Scripts\activate
 # Mac/Linux
 source myenv/bin/activate
 ```
-
 ✅ **Mini Task:** Install Python and set up VS Code.
 
 ---
